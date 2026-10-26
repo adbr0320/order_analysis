@@ -1,0 +1,3 @@
+2026-10-26 15:25:42,104 - ERROR - orders_broken_amount.csv: в total_amount есть нечисловые значения
+2026-10-26 15:25:42,104 - ERROR - orders_empty.csv: файл пустой
+2026-10-26 15:25:42,106 - ERROR - orders_wrong_columns.csv: нет колонок ['status', 'total_amount']

@@ -1,0 +1,4 @@
+"order_id","person_id","order_date","status","total_amount","currency","payment_method","shipping_method","notes"
+1,15,"2023-05-01","Delivered",120.50,"USD","paypal","standard",""
+2,16,"2023-05-02","Delivered","не указано","EUR","klarna","express",""
+3,17,"2023-05-03","Shipped","12,99","GBP","credit_card","fedex",""
